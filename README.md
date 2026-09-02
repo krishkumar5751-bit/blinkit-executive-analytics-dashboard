@@ -38,7 +38,7 @@ https://github.com/krishkumar5751-bit/blinkit-executive-analytics-dashboard/blob
 https://github.com/krishkumar5751-bit/blinkit-executive-analytics-dashboard/blob/main/Orders.png.png?raw=true
 
 ### 4. Rider Fleet & Delivery Performance
-![Rider Fleet Performance](Screenshots/Riders.png)
+https://github.com/krishkumar5751-bit/blinkit-executive-analytics-dashboard/blob/main/Riders.png.png?raw=true
 
 ---
 
