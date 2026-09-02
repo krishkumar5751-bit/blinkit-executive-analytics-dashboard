@@ -32,7 +32,7 @@ The dashboard features a persistent, branded corporate sidebar with dynamic page
 ![Executive Overview](Screenshots/Overview.png)
 
 ### 2. Customer Segmentation & Analytics
-![Customer Segmentation](Screenshots/Customers.png)
+https://github.com/krishkumar5751-bit/blinkit-executive-analytics-dashboard/blob/main/Customers.png.png?raw=true
 
 ### 3. Orders & Fulfillment Analytics
 ![Orders and Fulfillment](Screenshots/Orders.png)
