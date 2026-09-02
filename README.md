@@ -29,7 +29,7 @@ The dashboard features a persistent, branded corporate sidebar with dynamic page
 ## 📸 Visual Previews
 
 ### 1. Executive Business Overview
-![Executive Overview](Screenshots/Overview.png)
+https://github.com/krishkumar5751-bit/blinkit-executive-analytics-dashboard/blob/main/Overview.png.png?raw=true
 
 ### 2. Customer Segmentation & Analytics
 https://github.com/krishkumar5751-bit/blinkit-executive-analytics-dashboard/blob/main/Customers.png.png?raw=true
