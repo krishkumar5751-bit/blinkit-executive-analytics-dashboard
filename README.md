@@ -35,7 +35,7 @@ The dashboard features a persistent, branded corporate sidebar with dynamic page
 https://github.com/krishkumar5751-bit/blinkit-executive-analytics-dashboard/blob/main/Customers.png.png?raw=true
 
 ### 3. Orders & Fulfillment Analytics
-![Orders and Fulfillment](Screenshots/Orders.png)
+https://github.com/krishkumar5751-bit/blinkit-executive-analytics-dashboard/blob/main/Orders.png.png?raw=true
 
 ### 4. Rider Fleet & Delivery Performance
 ![Rider Fleet Performance](Screenshots/Riders.png)
